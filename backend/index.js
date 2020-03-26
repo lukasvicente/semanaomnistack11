@@ -6,7 +6,7 @@ const app = express();
 app.get('/',(req,res)=>{
     return res.json({
         user : 'lucas',
-        password : '123'
+        password : '1234'
     });
 });
 
