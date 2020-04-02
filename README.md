@@ -5,6 +5,7 @@ Aplicação da Semana OmniStack 11 - [Rocketseat](https://rocketseat.com.br/)
 ## Projeto
 
 **Nome**: The Be Hero 
+
 **Descrição**: Aplicação para ONG's, com o intuito de ajudar com publicações de casos e para
 doações com valores entrando em contato direto com as ONG's.
 
