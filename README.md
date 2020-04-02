@@ -17,7 +17,9 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 ### NodeJS
 
 **Back-End**: [ExpressJS](https://expressjs.com/pt-br/)
+
 **Front-End**: [React](https://pt-br.reactjs.org/)
+
 **Mobile**: 
 - [React-Native](https://reactnative.dev/)
 - [Expo](https://expo.io/)
